@@ -1,0 +1,57 @@
+{
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Corn (Maize)", "disease": "Common Rust", "status": "Diseased",
+    "treatment": "Spray a recommended fungicide containing mancozeb or a triazole (e.g. propiconazole) as per label dose when pustules appear. In light infection, removing heavily infected lower leaves can slow the spread.",
+    "prevention": "Grow rust-resistant hybrids, avoid very dense planting, and scout the field weekly in humid weather."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "Corn (Maize)", "disease": "Northern Leaf Blight", "status": "Diseased",
+    "treatment": "Apply a foliar fungicide such as mancozeb or azoxystrobin at the first sign of the long cigar-shaped lesions, following the label instructions.",
+    "prevention": "Use resistant hybrids, rotate corn with non-host crops, and bury or remove infected crop residue after harvest."
+  },
+  "Corn_(maize)___healthy": {
+    "crop": "Corn (Maize)", "disease": "Healthy", "status": "Healthy",
+    "treatment": "No treatment needed. The leaf looks healthy.",
+    "prevention": "Continue regular watering, balanced fertilizer and weekly field inspection."
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato", "disease": "Early Blight", "status": "Diseased",
+    "treatment": "Spray mancozeb or chlorothalonil at label dose, repeating every 7-10 days in wet weather. Remove and destroy badly infected lower leaves.",
+    "prevention": "Rotate with non-solanaceous crops for 2-3 years, water at the base of plants, and avoid overhead irrigation."
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato", "disease": "Late Blight", "status": "Diseased",
+    "treatment": "Act fast: this disease spreads very quickly. Remove and burn heavily infected plants, and spray a systemic fungicide such as metalaxyl + mancozeb (or cymoxanil based) strictly as per label.",
+    "prevention": "Use certified disease-free seed tubers, keep good air flow between rows, and avoid wetting the leaves while irrigating."
+  },
+  "Potato___healthy": {
+    "crop": "Potato", "disease": "Healthy", "status": "Healthy",
+    "treatment": "No treatment needed. The leaf looks healthy.",
+    "prevention": "Continue normal crop care and keep checking the lower leaves for early spots."
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato", "disease": "Bacterial Spot", "status": "Diseased",
+    "treatment": "Spray a copper-based bactericide (copper oxychloride) as per label. Remove severely infected leaves and do not work in the field when plants are wet, as the bacteria spread by touch and splashing water.",
+    "prevention": "Use disease-free seed/seedlings, rotate crops, and avoid overhead watering."
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato", "disease": "Early Blight", "status": "Diseased",
+    "treatment": "Spray mancozeb or chlorothalonil at label dose every 7-10 days. Remove infected lower leaves and mulch under the plants to stop soil splash.",
+    "prevention": "Rotate tomatoes with unrelated crops, give proper spacing for air flow, and water at the base."
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato", "disease": "Healthy", "status": "Healthy",
+    "treatment": "No treatment needed. The leaf looks healthy.",
+    "prevention": "Continue staking, balanced fertilizer and regular inspection of lower leaves."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "crop": "Bell Pepper", "disease": "Bacterial Spot", "status": "Diseased",
+    "treatment": "Apply a copper-based spray (copper oxychloride) as per label instructions. Remove and destroy badly infected plants and avoid handling wet plants.",
+    "prevention": "Plant disease-free seedlings, rotate with non-host crops for at least 2 years, and avoid overhead irrigation."
+  },
+  "Pepper,_bell___healthy": {
+    "crop": "Bell Pepper", "disease": "Healthy", "status": "Healthy",
+    "treatment": "No treatment needed. The leaf looks healthy.",
+    "prevention": "Continue normal care and inspect leaves weekly, especially after rain."
+  }
+}
