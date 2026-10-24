@@ -1,2 +1,2 @@
 tensorflow==2.21.0
-gradio==6.30.0
+streamlit==1.66.1
